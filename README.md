@@ -159,9 +159,6 @@
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=galdayan&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdayan&langs_count=8&layout=compact&count_private=true&hide=php,scss,batchfile,gherkin,freemarker,xslt,tsql,ruby,java,jupyter%20notebook"/>
         </td>
     </tr>
