@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Gal Dayan
 
 ### Entrepreneur/Senior Engineer/ML Engineer/LLM Specialist
 
